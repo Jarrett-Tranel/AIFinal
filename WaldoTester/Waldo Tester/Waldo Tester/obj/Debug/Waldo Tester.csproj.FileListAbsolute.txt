@@ -1,0 +1,9 @@
+D:\csResources\Smaller Projects\WaldoTester\Waldo Tester\Waldo Tester\bin\Debug\Waldo Tester.exe.config
+D:\csResources\Smaller Projects\WaldoTester\Waldo Tester\Waldo Tester\bin\Debug\Waldo Tester.exe
+D:\csResources\Smaller Projects\WaldoTester\Waldo Tester\Waldo Tester\bin\Debug\Waldo Tester.pdb
+D:\csResources\Smaller Projects\WaldoTester\Waldo Tester\Waldo Tester\obj\Debug\Waldo Tester.csprojAssemblyReference.cache
+D:\csResources\Smaller Projects\WaldoTester\Waldo Tester\Waldo Tester\obj\Debug\Waldo_Tester.Form1.resources
+D:\csResources\Smaller Projects\WaldoTester\Waldo Tester\Waldo Tester\obj\Debug\Waldo_Tester.Properties.Resources.resources
+D:\csResources\Smaller Projects\WaldoTester\Waldo Tester\Waldo Tester\obj\Debug\Waldo Tester.csproj.GenerateResource.cache
+D:\csResources\Smaller Projects\WaldoTester\Waldo Tester\Waldo Tester\obj\Debug\Waldo Tester.exe
+D:\csResources\Smaller Projects\WaldoTester\Waldo Tester\Waldo Tester\obj\Debug\Waldo Tester.pdb
